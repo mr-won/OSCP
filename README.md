@@ -1,3 +1,5 @@
+[all about oscp](https://www.youtube.com/watch?v=ylrZFMgiFRk)
+
 # OSCP
 OSCP 준비
 2) Windows Server 2016 & Windows 10
